@@ -11,7 +11,7 @@ authors = "Gaming32"
 description = '''
 Allows any TrueType font to be loaded, not just ttf files
 '''
-#logoFile = ""
+logoFile = "assets/anyfreetype/icon.png"
 
 [[dependencies.anyfreetype]]
 modId = "neoforge"
