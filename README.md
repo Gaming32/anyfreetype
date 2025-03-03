@@ -1,0 +1,1 @@
+Minecraft's code supports any FreeType-compatible font, but refuses to only load them if they are TrueType (ttf) fonts. This mod simply removes that limitation by making the `ttf` glyph provider able to load any FreeType-compatible font, such as OpenType (otf) fonts.
