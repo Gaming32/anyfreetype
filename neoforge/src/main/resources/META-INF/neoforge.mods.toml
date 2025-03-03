@@ -9,7 +9,7 @@ version = "${version}"
 displayName = "AnyFreeType"
 authors = "Gaming32"
 description = '''
-Allows any TrueType-compatible font to be loaded, not just ttf files
+Allows any FreeType-compatible font to be loaded, not just ttf files
 '''
 logoFile = "assets/anyfreetype/icon.png"
 
