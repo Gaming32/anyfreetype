@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "anyfreetype",
+  "version": "${version}",
+  "name": "AnyFreeType",
+  "description": "Allows any FreeType-compatible font to be loaded, not just ttf files",
+  "authors": [
+    "Gaming32"
+  ],
+  "license": "MIT",
+  "icon": "assets/anyfreetype/icon.png",
+  "environment": "client",
+  "mixins": [
+    "anyfreetype.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*",
+    "java": ">=21"
+  }
+}
